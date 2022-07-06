@@ -1,0 +1,23 @@
+{
+  "name": "TestTargetDependencyLib",
+  "version": "0.0.1",
+  "summary": "A short description of TestTargetDependencyLib.",
+  "homepage": "https://github.com/knox/TestTargetDependency",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": "Mickey Knox",
+  "source": {
+    "git": "https://github.com/Knox/TestTargetDependency.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "14.1"
+  },
+  "swift_versions": "5.4",
+  "source_files": [
+    "TestTargetDependencyLib/Classes/**/*",
+    "TestTargetDependencyLib/Extensions/**/*"
+  ],
+  "swift_version": "5.4"
+}

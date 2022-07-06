@@ -1,0 +1,6 @@
+module TestTargetDependencyLib {
+  umbrella header "TestTargetDependencyLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - TestTargetDependencyLib (0.0.1)
+
+DEPENDENCIES:
+  - TestTargetDependencyLib (from `TestTargetDependencyLib`)
+
+EXTERNAL SOURCES:
+  TestTargetDependencyLib:
+    :path: TestTargetDependencyLib
+
+SPEC CHECKSUMS:
+  TestTargetDependencyLib: bcc442e55fbe2408dc7c71e34239dbc9209dcdb5
+
+PODFILE CHECKSUM: 31a86988c966ecc8e60b2eccfde3a541263ef144
+
+COCOAPODS: 1.11.3

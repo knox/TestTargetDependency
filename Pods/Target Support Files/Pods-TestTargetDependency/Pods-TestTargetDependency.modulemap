@@ -1,0 +1,6 @@
+module Pods_TestTargetDependency {
+  umbrella header "Pods-TestTargetDependency-umbrella.h"
+
+  export *
+  module * { export * }
+}
